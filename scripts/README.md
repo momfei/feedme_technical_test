@@ -12,6 +12,8 @@
 
 2.) Run `table_creation.sql` to create necessary schema, types & tables in `ANXJDF` database.
 
-3.) Open command prompt and execute the Python script with `py mongodb_listener.py` or `python mongodb_listener.py`
+3.) Open `mongodb_listener.py` in editor and update **mongo_uri** & **pg_conn_params** accordingly.
 
-4.) Validate the data by using `data_validation.sql`
+4.) Open command prompt and execute the Python script with `py mongodb_listener.py` or `python mongodb_listener.py`
+
+5.) Validate the data by using `data_validation.sql`
