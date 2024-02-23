@@ -1,4 +1,3 @@
-## Instructions
 ### Prerequisites
 1.) Installed Python 3.10 https://www.python.org/downloads/
 
